@@ -1,4 +1,4 @@
 This is a DevOps Elective Course
 
 We are practicing DevOps - Git and Git Hub exercises 
-Adding new content
+modify  new content
