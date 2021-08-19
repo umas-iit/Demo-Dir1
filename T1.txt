@@ -1,4 +1,8 @@
 This is a DevOps Elective Course
 
 We are practicing DevOps - Git and Git Hub exercises 
+<<<<<<< HEAD
 modify  new content
+=======
+deleting  new content
+>>>>>>> BR1
